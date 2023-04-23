@@ -111,11 +111,12 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
+  background: rgba(255, 255, 255, 0.9);
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(255, 255, 255, 0.9);
 }
 
 #header .logo {
@@ -166,7 +167,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 500;
-  color: #fff;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
 }
